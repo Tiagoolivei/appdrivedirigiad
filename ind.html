@@ -6,7 +6,7 @@ include_once "conectar.php";
 session_start();
 
 
-$_SESSION['nome']='Juliana';
+
 
 if(isset($_POST['btloguin'])){ ///1
 
